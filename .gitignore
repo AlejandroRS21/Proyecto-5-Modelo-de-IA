@@ -1,0 +1,10 @@
+# Ignorar todos los archivos y carpetas por defecto
+*
+
+# Lista blanca (archivos que explícitamente se añaden al repositorio)
+!.gitignore
+!README.md
+!proyecto5_ia.md
+!proyecto5_ia.pdf
+!Thinking_Telescopes.pdf
+!ultron-in-avengers-age-of-ultron-1840591176.jpg
